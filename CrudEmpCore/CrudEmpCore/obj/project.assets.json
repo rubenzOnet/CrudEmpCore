@@ -8584,11 +8584,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rubenz\\source\\repos\\CrudEmpCore\\CrudEmpCore\\CrudEmpCore.csproj",
+      "projectUniqueName": "D:\\TEmp\\Sitios Web Temp\\Proyecto\\CrudEmpCore\\CrudEmpCore\\CrudEmpCore\\CrudEmpCore.csproj",
       "projectName": "CrudEmpCore",
-      "projectPath": "C:\\Users\\Rubenz\\source\\repos\\CrudEmpCore\\CrudEmpCore\\CrudEmpCore.csproj",
+      "projectPath": "D:\\TEmp\\Sitios Web Temp\\Proyecto\\CrudEmpCore\\CrudEmpCore\\CrudEmpCore\\CrudEmpCore.csproj",
       "packagesPath": "C:\\Users\\Rubenz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rubenz\\source\\repos\\CrudEmpCore\\CrudEmpCore\\obj\\",
+      "outputPath": "D:\\TEmp\\Sitios Web Temp\\Proyecto\\CrudEmpCore\\CrudEmpCore\\CrudEmpCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rubenz\\AppData\\Roaming\\NuGet\\NuGet.Config",

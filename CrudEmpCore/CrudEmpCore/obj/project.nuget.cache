@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8m1WOsrSyvKXqO2mxGQCJP/kGYmK+Vcd908gLUGmXk7hfr4G2lMbUoJv/iT0MoBiyVdzuT1QFhQ+E+vu3gs/oA==",
+  "dgSpecHash": "ivUxH1EGwwA4jRsHuWbZTbglzvV6d4fAzUgBPGITt7HoCWtSfCL7dPpLbzj8sslxuJdaohnfeXkRmKE2lGcAtg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rubenz\\source\\repos\\CrudEmpCore\\CrudEmpCore\\CrudEmpCore.csproj",
+  "projectFilePath": "D:\\TEmp\\Sitios Web Temp\\Proyecto\\CrudEmpCore\\CrudEmpCore\\CrudEmpCore\\CrudEmpCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rubenz\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Rubenz\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
